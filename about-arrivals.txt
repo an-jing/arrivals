@@ -1,0 +1,16 @@
+Project 'arrivals'
+updated 11/12/2020
+by an-jing
+This project (based in the atom & RStudio editors) is a stage in my p5.js (ie Javascript-based 'Proce55ing') learning process.
+Also it is a depiction of classical particle, wave & 'wavicle' arrivals from a distant star.
+And simulating Fraunhoffer diffraction where applicable.
+Envisage single, double & further multiple slit configurations including diffraction gratings.
+Implementing a 2D world with !D slits.
+Particles can arrive with uniformly random-spaced parallel paths & Poisson arrival statistics.
+Nice to have several different 'clunk' sounds when particles run into a blind wall or into a detection screen or counter.
+Nice also to have various run parameters displayed in 'real time' on-screen as the process unfolds.
+The full project - the (pseudo-) physics & the coding - will be described in a webable HTML file compiled from RMarkdown with the RStudio IDE. This file will embed the graphical animation. Everything else will be written either with the p5js.org online editor or with Atom & stored in the P5js.org cloud &/or in the Atom 'arrivals' project folder.
+The directly-written index.html file is designed to run the p5js 'sketch' (sketch.js or arrivals.js) with no non-Javascript content.
+The arrivals.html file (compiled from RMarkdown) will also run the sketch but as part of a web-page article.
+Up to now I have only used RCS (Revision Control System) for version control.
+Will now look into using Git - which is supported by both Atom & RStudio.
