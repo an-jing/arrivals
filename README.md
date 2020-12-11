@@ -1,2 +1,2 @@
 # arrivals
-Arrivals from a distant star - classical particle, waveicles &amp; waves.
+Arrivals from a distant star - classical particles, 'wavicles' and waves.
